@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\scanning\scanning\bin\Debug\scanning.exe.config
+C:\Users\HP\source\repos\scanning\scanning\bin\Debug\scanning.exe
+C:\Users\HP\source\repos\scanning\scanning\bin\Debug\scanning.pdb
+C:\Users\HP\source\repos\scanning\scanning\obj\Debug\scanning.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\scanning\scanning\obj\Debug\scanning.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\scanning\scanning\obj\Debug\scanning.exe
+C:\Users\HP\source\repos\scanning\scanning\obj\Debug\scanning.pdb
